@@ -6,7 +6,8 @@
 	EXPORT __main ; Enter to main() function
 
 __main 	PROC ; Definition of main() function
-	MOV r0, #8
-	MOV r1, #5
-	ADD r2, r0, r1
-	END
+		MOV r0, #8
+		MOV r1, #5
+		ADD r2, r0, r1
+		END
+
