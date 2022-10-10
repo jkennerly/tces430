@@ -13,3 +13,5 @@ Either a minimum grade of 2.0 in TCES 372, or a minimum grade of 2.0 in TEE 372
 
 #### **FORMAT**
 The class is a combination of lecture (4 hours per week, T&Th 10:10AM-12:10PM) and laboratory activities (2 hours per week, Th 1:30-3:30 PM).
+
+Lab 1
